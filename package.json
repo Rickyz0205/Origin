@@ -1,0 +1,11 @@
+{
+  "name": "librerie",
+  "version": "1.0.0",
+  "description": "File per tenere le librerie da usare nel progetto Progetto Multipliers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Riccardo Zuffi",
+  "license": "ISC"
+}
